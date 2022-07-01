@@ -1,0 +1,13 @@
+h1{
+    text-decoration: overline underline;
+    text-decoration-color: black;
+    color: crimson;
+    font-size: 40px;
+}
+body{
+  background: url(Images/Background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: cursive;
+
+}

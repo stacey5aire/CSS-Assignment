@@ -1,0 +1,68 @@
+.box1{
+    background-color: brown;
+    position: relative;
+}
+.box1:hover{
+    background-color: burlywood;
+}
+div{
+    width: 300px;
+    height: 200px;
+    line-height: 200px;
+}
+p{
+    text-align: center;
+}
+a{
+    display: block;
+    width: 300px;
+    height: 200px;
+    text-decoration: none;
+}
+.select{
+    background-image: url(Images/Background9.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.landing{
+    text-align: left;
+}
+.here{
+    text-align: left;
+}
+.box2{
+    background-color: crimson;
+    position: relative;
+    margin-top: 200px;
+}
+.box2:hover{
+    background-color: chartreuse;
+}
+.box3{
+    background-color: palevioletred;
+    position: relative;
+}
+.box3:hover{
+    background-color: coral;
+}
+
+.box4{
+    background-color: greenyellow;
+    position: absolute;
+    margin-top: 400px;
+}
+.box4:hover{
+    background-color: darkturquoise;
+}
+.box5{
+    background-color: pink;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 600px;
+}
+.box5:hover{
+    background-color: gold;
+}
+.Container{
+    display: flex;
+}
